@@ -11,7 +11,7 @@
          
          - 🤝 I’m looking for help with Swiggy Clone
          
-         - 💬 Ask me about JAVA,JAVASCRIPT,HTML,CSS
+         - 💬 Ask me about JAVA,JAVASCRIPT,HTML,CSS,BOOTSTRAP
          
          - 📫 How to reach me adityasen911@gmail.com
 
