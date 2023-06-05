@@ -5,15 +5,15 @@
          <h3 align="center">A passionate DevOps Engineer From India.</h3>
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi91108&label=Profile%20views&color=0e75b6&style=flat" alt="adi91108" /> </p>
          
-         - 🌱 I’m currently learning **Bootcamp Full Stack Development @ Acciojob**
+         - 🌱 I’m currently learning Bootcamp Full Stack Development @ Acciojob
          
          - 🔭 I’m currently working on Youtube Clone (https://adi91108.github.io/YOUTUBE-CLONE-PROJECT/index.html)
          
          - 🤝 I’m looking for help with Swiggy Clone
          
-         - 💬 Ask me about **JAVA,JAVASCRIPT,HTML,CSS**
+         - 💬 Ask me about JAVA,JAVASCRIPT,HTML,CSS
          
-         - 📫 How to reach me **adityasen911@gmail.com**
+         - 📫 How to reach me adityasen911@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
