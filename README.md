@@ -27,10 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi91108&show_icons=true&locale=en&layout=compact" alt="Adi91108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi91108&show_icons=true&locale=en" alt="Adi91108" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi91108&" alt="Adi91108" /></p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adi91108&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
@@ -65,4 +61,7 @@
 <!---
 Adi91108/Adi91108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi91108&show_icons=true&locale=en" alt="Adi91108" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi91108&" alt="Adi91108" /></p>
 --->
