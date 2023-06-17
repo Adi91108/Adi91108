@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Aditya sen</h1>
-         <h3 align="center">A passionate DevOps Engineer From India.</h3>   
+         <h3 align="center">A passionate Frontend WebDeveloper From India.</h3>   
          <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi91108&label=Profile%20views&color=0e75b6&style=flat" alt="adi91108" /> </p>
          
          
